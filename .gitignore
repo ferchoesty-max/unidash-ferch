@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Config with private keys
+js/config.js
+
+# Logs and temp
+*.log
+*.tmp
